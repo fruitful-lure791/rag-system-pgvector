@@ -1,0 +1,66 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Build outputs
+dist/
+build/
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Database
+*.sql
+*.db
+data/
+pgdata/
+
+# Testing
+coverage/
+.nyc_output/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# Temporary files
+*.tmp
+.cache/
+temp/
+tmp/
+
+# Embeddings cache
+embeddings/
+vector-cache/
+
+# Database dumps
+dumps/
+backups/
+
+# Docker
+docker-compose.override.yml
+
+# Package manager locks (optional)
+# yarn.lock
+# package-lock.json
+# pnpm-lock.yaml
