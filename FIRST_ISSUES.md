@@ -389,7 +389,7 @@ class QueryRouter {
 ## 🤝 Need Help?
 
 - Open a [discussion](https://github.com/groovy-web/rag-system-pgvector/discussions)
-- Join our [Discord](https://discord.gg/groovy-web)
+- Visit [Groovy Web](https://www.groovyweb.co)
 - Check [pgvector discussions](https://github.com/pgvector/pgvector/discussions)
 
 ---
